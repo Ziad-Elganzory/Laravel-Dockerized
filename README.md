@@ -102,3 +102,4 @@ docker compose exec app php artisan <command>
 ```bash
 docker compose exec app npm <command>
 ```
+# Laravel-Dockerized
