@@ -11,8 +11,8 @@ Before you begin, ensure you have Docker installed on your machine
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/xMohamd/laravel-auth.git
-cd laravel-auth
+git clone https://github.com/Ziad-Elganzory/Laravel-Dockerized.git
+cd Laravel-Dockerized
 ```
 
 2. Build the Docker containers:
@@ -102,4 +102,3 @@ docker compose exec app php artisan <command>
 ```bash
 docker compose exec app npm <command>
 ```
-# Laravel-Dockerized
